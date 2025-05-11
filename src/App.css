@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+#quote-box {
+  background-color: #f7f4f4;
+  color: rgb(15, 173, 68);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+  font-size: calc(10px + 2vmin);
+  width: 500px;
+  height: 350px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
